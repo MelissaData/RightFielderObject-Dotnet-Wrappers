@@ -13,7 +13,7 @@ For further details, please visit: https://wiki.melissadata.com/images/7/79/DQT_
 ## Tested Environments
 
 - Windows 64-bit .NET 7.0
-- Melissa Right Fielder Object for 2023-09
+- Melissa Right Fielder Object for 2023-10
 
 ## Getting Started
 
