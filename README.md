@@ -13,7 +13,7 @@ For further details, please visit: https://docs.melissa.com/on-premise-api/right
 - Windows 10 64-bit .NET 7.0, Powershell 5.1
 - Linux 64-bit .NET 7.0, Ubuntu 20.04.05 LTS
 - Melissa Right Fielder Object for 2024-Q2
-- Wrapper file(s) have not changed since 2023-Q2
+- Wrapper file(s) have not changed since 2024-Q2
 
 ## Getting Started
 
