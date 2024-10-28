@@ -12,15 +12,15 @@ For further details, please visit: https://docs.melissa.com/on-premise-api/right
 ## Tested Environments
 - Windows 10 64-bit .NET 7.0, Powershell 5.1
 - Linux 64-bit .NET 7.0, Ubuntu 20.04.05 LTS
-- Melissa Right Fielder Object for 2024-Q3
+- Melissa Right Fielder Object for 2024-Q4
 - Wrapper file(s) have not changed since 2024-Q2
 
 ## Getting Started
 
 ### Download this project
 ```
-$ git clone https://github.com/MelissaData/RightFielderObject-Dotnet-Wrappers
-$ cd RightFielderObject-Dotnet-Wrappers
+git clone https://github.com/MelissaData/RightFielderObject-Dotnet-Wrappers
+cd RightFielderObject-Dotnet-Wrappers
 ```
 
 ### Copy wrappers to your project folder
@@ -51,13 +51,13 @@ Parameters:
 - license (optional): a license key to run the powershell script
 
 ```
-$ .\BuildRightFielderNETdll.ps1
+.\BuildRightFielderNETdll.ps1
 ```
 
 or
 
 ```
-$ .\BuildRightFielderNETdll.ps1 -license "<your_license_key>"
+.\BuildRightFielderNETdll.ps1 -license "<your_license_key>"
 ```
 
 ## See also
