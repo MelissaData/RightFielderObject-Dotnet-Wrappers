@@ -19,8 +19,8 @@ For further details, please visit: https://docs.melissa.com/on-premise-api/right
 
 ### Download this project
 ```
-git clone https://git.melissadata.com/dtgroup/melissadataobjectexamples/net/melissarightfielderobjectnetwrappers.git
-cd melissarightfielderobjectnetwrappers
+git clone https://github.com/MelissaData/RightFielderObject-Dotnet-Wrappers
+cd RightFielderObject-Dotnet-Wrappers
 ```
 
 ### Copy wrappers to your project folder
